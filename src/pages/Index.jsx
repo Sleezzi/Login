@@ -10,6 +10,10 @@ function Index() {
         {
             email: "admin@aios.sh",
             password: "admin"
+        },
+        {
+            email: "none@aios.sh",
+            password: ""
         }
     ]
     const checkIfLoged = () => {
