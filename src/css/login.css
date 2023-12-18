@@ -1,0 +1,25 @@
+.login {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+}
+
+form {
+    height: 25%;
+    width: 25%;
+    background: #FFFFFF5F;
+    border-radius: 8px;
+    border: 2px solid #FFFFFF6F;
+}
+
+form > div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+span {
+    color: red;
+}
